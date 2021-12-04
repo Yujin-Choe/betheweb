@@ -2,6 +2,7 @@
         "portfolioItems": [
           {
             "name": "Micro Actuator",
+            "img": "img/main/portfolio01.png",
             "url": "http://micro-actuator.co.kr",
             "devices": "Responsive Web (PC, Tablet, Mobile)",
             "involved": "Planning,<br> Design (Revised Gnuboard Theme)<br> Development (Gnuboard Solution)",
@@ -14,6 +15,7 @@
           },
           {
             "name": "11 Street - Ticket",
+            "img": "img/main/portfolio02.png",
             "url": "https://ticket.11st.co.kr",
             "devices": "PC",
             "involved": "UI Development",
@@ -25,6 +27,7 @@
           },
           {
             "name": "UNIVONE",
+            "img": "img/main/portfolio03.png",
             "url": "http://univone.com",
             "devices": "Responsive Web (PC, Tablet, Mobile)",
             "involved": "Planning,<br> Design,<br> Development (Gnuboard Solution)",
@@ -36,6 +39,7 @@
           },
           {
             "name": "ZIC HIGH TECH",
+            "img": "img/main/portfolio04.png",
             "url": "https://zicht.co.kr",
             "devices": "Responsive Web (PC, Tablet, Mobile)",
             "involved": "Planning,<br> Design (Revised Cafe24 Theme),<br> Front-end Development,<br> Back-end Development (Cafe24 Solution)",
@@ -47,6 +51,7 @@
           },
           {
             "name": "11 Street - China",
+            "img": null,
             "url": null,
             "devices": "PC",
             "involved": "UI Development",
@@ -57,7 +62,20 @@
             ]
           },
           {
+            "name": "LG Electronics - SIGNATURE KITCHEN SUITE App",
+            "img": "img/main/portfolio06.png",
+            "url": null,
+            "devices": "Mobile",
+            "involved": "UI Development",
+            "languages": "Korean, English",
+            "badges": [
+              { "name": "application" },
+              { "name": "electronics" }
+            ]
+          },
+          {
             "name": "Daelim Museum",
+            "img": "img/main/portfolio07.png",
             "url": "http://www.daelimmuseum.org",
             "devices": "PC, Mobile",
             "involved": "UI Development",
@@ -68,17 +86,20 @@
           },
           {
             "name": "Samsung Electronics - ChatON B2B Admin Portal",
+            "img": "img/main/portfolio08.png",
             "url": null,
             "devices": "Responsive Web (PC)",
             "involved": "UI Development",
             "languages": "English",
             "badges": [
               { "name": "dashboard" },
-              { "name": "bootstrap" }
+              { "name": "bootstrap" },
+              { "name": "electronics" }
             ]
           },
           {
             "name": "Hanwha Hotel & Resort",
+            "img": "img/main/portfolio08.png",
             "url": null,
             "devices": "PC",
             "involved": "UI Development",
@@ -90,6 +111,7 @@
           },
           {
             "name": "Cheil Industries - Beanpole, 8 Seconds",
+            "img": "img/main/portfolio10.png",
             "url": null,
             "devices": "PC, Mobile",
             "involved": "UI Development",
@@ -101,6 +123,7 @@
           },
           {
             "name": "Hyundai Motor Group - PR",
+            "img": "img/main/portfolio11.png",
             "url": null,
             "devices": "Responsive Web (PC, Tablet, Mobile)",
             "involved": "UI Development",
@@ -112,13 +135,15 @@
           },
           {
             "name": "LG Electronics - Air Sync",
+            "img": "img/main/portfolio12.png",
             "url": null,
             "devices": "PC",
             "involved": "UI Development",
             "languages": "Arabic",
             "badges": [
               { "name": "arabic" },
-              { "name": "r to l" }
+              { "name": "r to l" },
+              { "name": "electronics" }
             ]
           }
         ]
