@@ -1,125 +1,125 @@
 {
         "porifolioItems": [
           {
-            name: 'Micro Actuator',
-            url: 'http://micro-actuator.co.kr',
-            devices: 'Responsive Web (PC, Tablet, Mobile)',
-            involved: 'Planning,<br> Design (Revised Gnuboard Theme)<br> Development (Gnuboard Solution)',
-            languages: 'English, Chinese',
-            badges: [
-              { name: 'responsive web' },
-              { name: 'global' },
-              { name: 'manufacturing' }
+            "name": "Micro Actuator",
+            "url": "http://micro-actuator.co.kr",
+            "devices": "Responsive Web (PC, Tablet, Mobile)",
+            "involved": "Planning,<br> Design (Revised Gnuboard Theme)<br> Development (Gnuboard Solution)",
+            "languages": "English, Chinese",
+            "badges": [
+              { "name": "responsive web" },
+              { "name": "global" },
+              { "name": "manufacturing" }
             ]
           },
           {
-            name: '11 Street - Ticket',
-            url: 'https://ticket.11st.co.kr',
-            devices: 'PC',
-            involved: 'UI Development',
-            languages: 'Korean',
-            badges: [
-              { name: 'e-commerce' },
-              { name: 'renewal' }
+            "name": "11 Street - Ticket",
+            "url": "https://ticket.11st.co.kr",
+            "devices": "PC",
+            "involved": "UI Development",
+            "languages": "Korean",
+            "badges": [
+              { "name": "e-commerce" },
+              { "name": "renewal" }
             ]
           },
           {
-            name: 'UNIVONE',
-            url: 'http://univone.com',
-            devices: 'Responsive Web (PC, Tablet, Mobile)',
-            involved: 'Planning,<br> Design,<br> Development (Gnuboard Solution)',
-            languages: 'Korean',
-            badges: [
-              { name: 'responsive web' },
-              { name: 'interior' }
+            "name": "UNIVONE",
+            "url": "http://univone.com",
+            "devices": "Responsive Web (PC, Tablet, Mobile)",
+            "involved": "Planning,<br> Design,<br> Development (Gnuboard Solution)",
+            "languages": "Korean",
+            "badges": [
+              { "name": "responsive web" },
+              { "name": "interior" }
             ]
           },
           {
-            name: 'ZIC HIGH TECH',
-            url: 'https://zicht.co.kr',
-            devices: 'Responsive Web (PC, Tablet, Mobile)',
-            involved: 'Planning,<br> Design (Revised Cafe24 Theme),<br> Front-end Development,<br> Back-end Development (Cafe24 Solution)',
-            languages: 'Korean',
-            badges: [
-              { name: 'responsive web' },
-              { name: 'manufacturing' }
+            "name": "ZIC HIGH TECH",
+            "url": "https://zicht.co.kr",
+            "devices": "Responsive Web (PC, Tablet, Mobile)",
+            "involved": "Planning,<br> Design (Revised Cafe24 Theme),<br> Front-end Development,<br> Back-end Development (Cafe24 Solution)",
+            "languages": "Korean",
+            "badges": [
+              { "name": "responsive web" },
+              { "name": "manufacturing" }
             ]
           },
           {
-            name: '11 Street - China',
-            url: null,
-            devices: 'PC',
-            involved: 'UI Development',
-            languages: 'Chinese',
-            badges: [
-              { name: 'e-commerce' },
-              { name: 'CHINESE' }
+            "name": "11 Street - China",
+            "url": null,
+            "devices": "PC",
+            "involved": "UI Development",
+            "languages": "Chinese",
+            "badges": [
+              { "name": "e-commerce" },
+              { "name": "CHINESE" }
             ]
           },
           {
-            name: 'Daelim Museum',
-            url: 'http://www.daelimmuseum.org',
-            devices: 'PC, Mobile',
-            involved: 'UI Development',
-            languages: 'Korean',
-            badges: [
-              { name: 'museum' }
+            "name": "Daelim Museum",
+            "url": "http://www.daelimmuseum.org",
+            "devices": "PC, Mobile",
+            "involved": "UI Development",
+            "languages": "Korean",
+            "badges": [
+              { "name": "museum" }
             ]
           },
           {
-            name: 'Samsung Electronics - ChatON B2B Admin Portal',
-            url: null,
-            devices: 'Responsive Web (PC)',
-            involved: 'UI Development',
-            languages: 'English',
-            badges: [
-              { name: 'dashboard' },
-              { name: 'bootstrap' }
+            "name": "Samsung Electronics - ChatON B2B Admin Portal",
+            "url": null,
+            "devices": "Responsive Web (PC)",
+            "involved": "UI Development",
+            "languages": "English",
+            "badges": [
+              { "name": "dashboard" },
+              { "name": "bootstrap" }
             ]
           },
           {
-            name: 'Hanwha Hotel & Resort',
-            url: null,
-            devices: 'PC',
-            involved: 'UI Development',
-            languages: 'Japanese, Chinese',
-            badges: [
-              { name: 'global' },
-              { name: 'hotel' }
+            "name": "Hanwha Hotel & Resort",
+            "url": null,
+            "devices": "PC",
+            "involved": "UI Development",
+            "languages": "Japanese, Chinese",
+            "badges": [
+              { "name": "global" },
+              { "name": "hotel" }
             ]
           },
           {
-            name: 'Cheil Industries - Beanpole, 8 Seconds',
-            url: null,
-            devices: 'PC, Mobile',
-            involved: 'UI Development',
-            languages: 'Korean',
-            badges: [
-              { name: 'e-commerce' },
-              { name: 'fashion' }
+            "name": "Cheil Industries - Beanpole, 8 Seconds",
+            "url": null,
+            "devices": "PC, Mobile",
+            "involved": "UI Development",
+            "languages": "Korean",
+            "badges": [
+              { "name": "e-commerce" },
+              { "name": "fashion" }
             ]
           },
           {
-            name: 'Hyundai Motor Group - PR',
-            url: null,
-            devices: 'Responsive Web (PC, Tablet, Mobile)',
-            involved: 'UI Development',
-            languages: 'Korean',
-            badges: [
-              { name: 'arabic' },
-              { name: 'r to l' }
+            "name": "Hyundai Motor Group - PR",
+            "url": null,
+            "devices": "Responsive Web (PC, Tablet, Mobile)",
+            "involved": "UI Development",
+            "languages": "Korean",
+            "badges": [
+              { "name": "arabic" },
+              { "name": "r to l" }
             ]
           },
           {
-            name: 'LG Electronics - Air Sync',
-            url: null,
-            devices: 'PC',
-            involved: 'UI Development',
-            languages: 'Arabic',
-            badges: [
-              { name: 'arabic' },
-              { name: 'r to l' }
+            "name": "LG Electronics - Air Sync",
+            "url": null,
+            "devices": "PC",
+            "involved": "UI Development",
+            "languages": "Arabic",
+            "badges": [
+              { "name": "arabic" },
+              { "name": "r to l" }
             ]
           }
-        ],
+        ]
       }
